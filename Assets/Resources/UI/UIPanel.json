@@ -1,0 +1,33 @@
+{
+  "panelJsonDataList":
+  [
+    {
+      "panelTypeStr": "Start",
+      "path": "UI/Panel_Start"
+    },
+    {
+      "panelTypeStr": "Register",
+      "path": "UI/Panel_Register"
+    },
+    {
+      "panelTypeStr": "Login",
+      "path": "UI/Panel_Login"
+    },
+    {
+      "panelTypeStr": "Message",
+      "path": "UI/Panel_TipsMsgText"
+    },
+    {
+      "panelTypeStr": "RoomList",
+      "path": "UI/Panel_RoomList"
+    },
+    {
+      "panelTypeStr": "Room",
+      "path": "UI/Panel_Room"
+    },
+    {
+      "panelTypeStr": "Game",
+      "path": "UI/Panel_Game"
+    }
+  ]
+}
